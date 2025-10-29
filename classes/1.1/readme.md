@@ -1,3 +1,9 @@
+I am learning Classes and methods in python and these are some examples of my practice!
+
+
+
+
+
 make a bank account manager.
 which has account hoder imfo
 bank balance.
@@ -11,4 +17,5 @@ aacc type
 6-current
 7-merchant
 8-depo
+
 9-widrw
