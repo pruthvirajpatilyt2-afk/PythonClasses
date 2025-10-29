@@ -7,7 +7,7 @@ class person:
         super().__init__(**kwargs) 
         print(f"Initializing Person: {name}")
         self.name=name
-        self.age=age
+        self.age=age 
         self.adress=adress
 
         
@@ -207,4 +207,5 @@ manager_as_employee.approve_loan()
 
 manager_as_customer = my_bank.find_customer("C-001")
 manager_as_customer.open_account("current", 10000, "M-101")
+
 manager_as_customer.accounts["M-101"].withdraw(500)
